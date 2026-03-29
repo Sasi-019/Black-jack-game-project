@@ -1,0 +1,46 @@
+
+body{
+    text-align: center;
+    background-color: green;
+    padding: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    background-image: url("https://cdn.hswstatic.com/gif/how-to-play-blackjack-lead.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight:bold;
+    background-position: center;
+
+}
+h1{
+    color: orange;
+    
+}
+p{
+  color:white;
+  
+}
+button{
+    background-color: goldenrod;
+    width:150px;
+    color:green;
+    font-weight: bold;
+    border:none;
+    border-radius: 5px;
+    padding: 5px;
+    margin:10px;
+    
+}
+#orange-shelf{
+    background-color: sandybrown;
+    width:150px;
+    height: 20px;
+    border-radius: 10px;
+    
+}
+#apple-shelf{
+    background-color: palevioletred;
+    width:150px;
+    height: 20px;
+    border-radius: 10px;
+    
+}

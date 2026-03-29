@@ -1,3 +1,3 @@
 # Black-jack-game-project
 <br>
-author -sasi
+author -sasi-dharani
